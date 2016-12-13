@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1006462225983",
+    "firebase_url": "https://fir-auth-9fddf.firebaseio.com",
+    "project_id": "fir-auth-9fddf",
+    "storage_bucket": "fir-auth-9fddf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006462225983:android:68bb9cf6cbc9e00a",
+        "android_client_info": {
+          "package_name": "com.ramadan.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006462225983-q2c0nl619eett7k9rrvfdsrp7iitirbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4a-3P6iuE7gr2jIgLh2tvRQ6nrOqIb4w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
